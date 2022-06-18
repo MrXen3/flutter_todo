@@ -1,6 +1,6 @@
 # todo
 
-A new Flutter project.
+A new Flutter project I have created from a tutorial by Hassan Fulaih
 
 ## Getting Started
 
